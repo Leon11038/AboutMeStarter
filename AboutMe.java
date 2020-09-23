@@ -9,9 +9,9 @@ public class AboutMe {
         // Declaring the variables
         // TODO: Write the code the declares the variables
     	
-    	String myName = "Ryan"
-    	int myAge = 16
-    	double myHeightInMeters = 1.56
+    	String myName = "Ryan";
+    	int myAge = 16;
+    	double myHeightInMeters = 1.56;
         
     	// Print the values
         System.out.println("Hi, my name is " + myName);
@@ -20,8 +20,8 @@ public class AboutMe {
 
         // Change the variables
         // TODO: Write the code that changes the variables
-        myAge = 17
-        myHeightInMeters = 1.58
+        myAge = 17;
+        myHeightInMeters = 1.58;
         // Print the new values
         System.out.println("Some time passes...");
         // TODO: Write the last two print statements
